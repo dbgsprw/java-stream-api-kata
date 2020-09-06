@@ -17,7 +17,7 @@ import static org.hamcrest.Matchers.contains;
 import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.*;
 
-public class Exercise1Test extends ClassicOnlineStore {
+public class Exercise1TestAboutFunctionAndPredicate extends ClassicOnlineStore {
 
     @Easy @Test
     public void findRichCustomers() {

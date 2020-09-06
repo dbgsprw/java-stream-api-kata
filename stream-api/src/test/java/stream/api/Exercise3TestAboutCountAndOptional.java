@@ -14,7 +14,7 @@ import java.util.stream.Stream;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.*;
 
-public class Exercise3Test extends ClassicOnlineStore {
+public class Exercise3TestAboutCountAndOptional extends ClassicOnlineStore {
 
     @Easy @Test
     public void howManyItemsWanted() {

@@ -17,7 +17,7 @@ import java.util.stream.Stream;
 import static org.hamcrest.Matchers.contains;
 import static org.junit.Assert.*;
 
-public class Exercise2Test extends ClassicOnlineStore {
+public class Exercise2TestAboutSortAndLimitAndFlatMap extends ClassicOnlineStore {
 
     @Easy @Test
     public void sortByAge() {
